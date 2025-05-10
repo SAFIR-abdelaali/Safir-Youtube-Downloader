@@ -34,10 +34,10 @@ Audio: [video-title].mp3
 The folder is created automatically if it doesn't exist.
 
 ## if ffmpeg not found
--Download FFmpeg from https://www.gyan.dev/ffmpeg/builds/
--Choose the "ffmpeg-git-full.7z" version
--Extract the downloaded file
--Move the ffmpeg.exe, ffprobe.exe, and ffplay.exe files to the same folder as your Python script
+- Download FFmpeg from https://www.gyan.dev/ffmpeg/builds/
+- Choose the "ffmpeg-git-full.7z" version
+- Extract the downloaded file
+- Move the ffmpeg.exe, ffprobe.exe, and ffplay.exe files to the same folder as your Python script
 
 ## Honorable mention
 You are allowed to modify this code as you wish, but give credits!
